@@ -1,1 +1,1 @@
-(import "github.com/NetSys/quilt/specs/spark/sparkPI")
+(import "github.com/NetSys/quilt/specs/example")
