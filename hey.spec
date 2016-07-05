@@ -1,1 +1,1 @@
-(import "github.com/NetSys/quilt/specs/example.spec")
+(import "github.com/NetSys/quilt/specs/example")
